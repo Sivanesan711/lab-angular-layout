@@ -1,0 +1,8 @@
+.footer
+{
+  display: flex;
+  flex-direction: row;
+  padding: 1em;
+  padding-left: 1em;
+  background: orangered;
+}

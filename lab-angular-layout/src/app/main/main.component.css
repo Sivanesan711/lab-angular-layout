@@ -1,0 +1,27 @@
+.main
+{
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  padding: 0.5em;
+  border-bottom: 2px solid orangered;
+}
+
+.a
+{
+  padding: 0.5em;
+  font-size: 1em;
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+
+.a :hover
+{
+  color: orangered;
+}
+
+.home
+{
+  padding: 1em 1em;
+}
